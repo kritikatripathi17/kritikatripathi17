@@ -12,8 +12,6 @@
 
 🌙 *"I was always an unusual girl"*
 
-`v1.0 — updates coming ✨`
-
 </div>
 
 ---
@@ -22,14 +20,15 @@
 ## 🖤 About Me
 
 ```bash
-> SYSTEM BOOT...
-> LOADING PROFILE: kritikatripathi17
-> STATUS: ONLINE ██████████ 100%
+> INITIALIZING: kritikatripathi17
+> ALGORITHM: O(∞)
+> OUTPUT: crafting digital experiences
+> OVERRIDE: limits.exe not found
 ```
 
 - 🎓 BTech CSE @ **SRMU '27**
 - 📍 Lucknow, India
-- 🛠️ crafting digital experiences, one commit at a time
+- 🛠️ orchestrating logic and creativity, silently
 - 📬 [mahitripathi966@gmail.com](mailto:mahitripathi966@gmail.com)
 
 ---
@@ -39,8 +38,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-tripathi-837441246)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahitripathi966@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-circle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-tripathi-837441246)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white)](mailto:mahitripathi966@gmail.com)
 
 </div>
 
@@ -51,16 +50,25 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-circle&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-circle&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-circle&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-circle&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-circle&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-circle&logo=fastapi)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-circle&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-circle&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-circle&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-circle&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-circle&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-circle&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-circle&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-circle&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-circle&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-circle&logo=github&logoColor=white)
 
 </div>
 
@@ -87,12 +95,12 @@
 <!-- Profile views -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kritikatripathi17&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kritikatripathi17&color=ff69b4&style=flat-square)
 
 </div>
 
 ---
 
 <div align="center">
-<i>main branch only 🖤</i>
+<i>v1.0 — updates coming 🖤</i>
 </div>
