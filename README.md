@@ -10,14 +10,14 @@
 <!-- Quote -->
 <div align="center">
 
-🌙 *"I was always an unusual girl"*
+**An anomaly in the algorithm**
 
 </div>
 
 ---
 
 <!-- About Me -->
-## 🖤 About Me
+## About Me
 
 ```bash
 > INITIALIZING: kritikatripathi17
@@ -26,15 +26,15 @@
 > OVERRIDE: limits.exe not found
 ```
 
-- 🎓 BTech CSE @ **SRMU '27**
+- BTech CSE @ **SRMU '27**
 - 📍 Lucknow, India
-- 🛠️ orchestrating logic and creativity, silently
+- orchestrating logic and creativity, silently
 - 📬 [mahitripathi966@gmail.com](mailto:mahitripathi966@gmail.com)
 
 ---
 
 <!-- Socials -->
-## 🌐 Socials
+## Socials
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 ---
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,6 @@
 
 ---
 
-<!-- Profile views -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kritikatripathi17&color=ff69b4&style=flat-square)
@@ -102,5 +101,5 @@
 ---
 
 <div align="center">
-<i>v1.0 — updates coming 🖤</i>
+<i>v1.0 — updates coming</i>
 </div>
